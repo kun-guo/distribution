@@ -1,0 +1,25 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "2L0dm/EdpGwA64TpVoSnMiZFmpU=",
+			"path": "github.com/google/go-querystring/query",
+			"revision": "c8c88dbee036db4e4808d1f2ec8c2e15e11c3f80",
+			"revisionTime": "2019-03-18T16:54:38Z"
+		},
+		{
+			"checksumSHA1": "lqNs5fEcvJZgx08DmtFVDI55+9M=",
+			"path": "github.com/mozillazg/go-httpheader",
+			"revision": "61f2392c3317b60616c9dcb10d0a4cfef131fe62",
+			"revisionTime": "2018-11-03T08:20:14Z"
+		},
+		{
+			"checksumSHA1": "gy3UE12TGBnnFdvYptyYmvQuVAU=",
+			"path": "github.com/tencentyun/cos-go-sdk-v5",
+			"revision": "85d2492d05538d5b443dd71a261bb63b4a279b66",
+			"revisionTime": "2019-04-04T10:28:40Z"
+		}
+	],
+	"rootPath": "distribution"
+}
